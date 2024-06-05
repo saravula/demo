@@ -26,8 +26,8 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 vars:
   data_diff:
-    prod_database: DEMO
-    prod_schema: CORE
+    prod_database: DATAFOLD_DEMO
+    prod_schema: DBT_SRAVULA
     datasource_id: 4932
 
 # Configuring models
