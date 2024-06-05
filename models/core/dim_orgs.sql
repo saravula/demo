@@ -1,3 +1,4 @@
+-- --test
 WITH orgs AS (
 --prod
     SELECT
