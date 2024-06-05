@@ -1,4 +1,4 @@
-demo:
+DATAFOLD_USER:
   target: dev
   outputs:
     dev:
